@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "name": "Leandro Alves",
+  "email": "leandro.alves@jsonserver.com",
+  "phone_number": "11987619101",
+  "has_app_instaled": true,
+  "app_version": "1.0",
+  "app_platform": "android"
+},
+{
+  "id": 2,
+  "name": "Jaqueline Jordão",
+  "email": "jaqueline@jsonserver.com",
+  "phone_number": "3132891829",
+  "has_app_instaled": false
+},
+{
+  "id": 3,
+  "name": "David Matheus",
+  "email": "david.matheus+teste@jsonserver.com",
+  "has_app_instaled": true,
+  "app_version": "1.0",
+  "app_platform": "ios"
+},
+{
+  "id": 4,
+  "name": "",
+  "phone_number": "21999001293",
+  "has_app_instaled": true,
+  "app_version": "1.1",
+  "app_platform": "android"
+}
